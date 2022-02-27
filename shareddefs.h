@@ -7,7 +7,7 @@ struct histinterval{
 };
 struct histdata{
 	int pid;
-	int histogram[201]; 
+	int histogram[301]; 
 	int start_val;
 };
 struct message {
